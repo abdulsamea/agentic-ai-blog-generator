@@ -1,9 +1,9 @@
 # agentic-ai-blog-generator
 
-### run on post via url:
+### run on postman via POST method:
 
 ```
 http://0.0.0.0:8000/blogs
 ```
 
-## sampe pyload added in request.json
+## sample payload added in request.json
